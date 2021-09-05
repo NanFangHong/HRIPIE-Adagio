@@ -13,9 +13,10 @@
 
 ## Cohort Fall 2021
 
-- 黄云颀山
-- 关皓宇
-
+| Name | Potential | Hobby | Comment | 
+| ---- | :----: | :----: | :----: |
+| 黄云颀山 | Business Development | 模型、动漫 |  |
+| 关皓宇 | Business Development | 模型、羽毛球、摄影 |  |
 
 ## Intellectual Calendar
 
