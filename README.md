@@ -26,8 +26,7 @@
 
 (8 Sep 2021) 红燕堂海滩烧烤 + [云洞图书馆阅读之夜](http://hkyd.hitour2005.com/)
 
-<img src="
-http://p3.ifengimg.com/a/2019_25/c00c56b08fd2f78_size314_w550_h278.png" alt="drawing" width="400"/>
+<img src="http://p3.ifengimg.com/a/2019_25/c00c56b08fd2f78_size314_w550_h278.png" alt="drawing" width="400"/>
 <img src="http://www.archcollege.com/wp-content/uploads/2020/08/1597053492987552.jpg" alt="drawing" width="400"/>
 
 (11 Sep 2021) [三域美术馆《孪生的隐喻》开幕式](https://mp.weixin.qq.com/s/FBXgvtt-71qvqiJv49_iqg)
