@@ -6,7 +6,7 @@
 - Starting Date: 11 Oct 2021
 - Ending Date: 31 Jan 2022
 
-## Mentour 
+## Mentor 
 
 - 何月君博士（9-10 Sep 2021)
 - 洪楠方博士
