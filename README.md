@@ -10,7 +10,9 @@
 
 
 (17 Sep 2021)[讲座：解密马勒的音乐世界](https://mp.weixin.qq.com/s/55uPO7XKjl8MScvbkCzEXg)
+
 (19 Sep 2021)[讲座：青少年如何听懂马勒？](https://mp.weixin.qq.com/s/55uPO7XKjl8MScvbkCzEXg)
+
 (8 Nov 2021) 广州交响乐团 马勒《第五交响曲》
 
 <img src="https://mmbiz.qpic.cn/mmbiz_jpg/ywIiayEqvTiaVlwl7iavljlRwW3MZSOxdUPDEmg4IazOQ6Vy72jzKn5vtqQaER5rwV9W6xrvenqibic3ucpt5HWReKA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="drawing" width="400"/>
