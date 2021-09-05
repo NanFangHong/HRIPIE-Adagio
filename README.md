@@ -1,4 +1,23 @@
-# Intellectual Calendar
+# Adagio Fellow Program Fall 2021
+
+## Academic Calendar
+
+- Preparation: 9 Sep - 10 Oct 2021
+- Starting Date: 11 Oct 2021
+- Ending Date: 31 Jan 2022
+
+## Mentour 
+
+- 何月君博士（9-10 Sep 2021)
+- 洪楠方博士 (8 Sep 2021 - 31 Jan 2022)
+
+## Cohort Fall 2021
+
+- 黄云颀山
+- 关皓宇
+
+
+## Intellectual Calendar
 
 (8 Sep 2021) 红燕堂海滩烧烤 + [云洞图书馆阅读之夜](http://hkyd.hitour2005.com/)
 
