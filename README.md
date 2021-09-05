@@ -15,7 +15,7 @@
 
 | Name | Potential | Hobby | Comment | 
 | ---- | :----: | :----: | :----: |
-| 黄云颀山 | Business Development | 模型、动漫 |  |
+| 黄云颀山 | Business Development | 模型、动漫、咖啡 |  |
 | 关皓宇 | Business Development | 模型、羽毛球、摄影 |  |
 
 ## Courses
