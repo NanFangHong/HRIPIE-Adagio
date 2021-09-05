@@ -1,6 +1,6 @@
 # Intellectual Calendar
 
-(8 Sep 2021) 红燕堂海滩烧烤 + 云洞图书馆阅读之夜
+(8 Sep 2021) 红燕堂海滩烧烤 + [云洞图书馆阅读之夜](http://hkyd.hitour2005.com/)
 
 <img src="http://www.archcollege.com/wp-content/uploads/2020/08/1597053492987552.jpg" alt="drawing" width="400"/>
 
