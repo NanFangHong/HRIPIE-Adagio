@@ -18,6 +18,10 @@
 | 黄云颀山 | Business Development | 模型、动漫 |  |
 | 关皓宇 | Business Development | 模型、羽毛球、摄影 |  |
 
+## Courses
+
+职业经理人工作习惯
+
 ## Intellectual Calendar
 
 (8 Sep 2021) 红燕堂海滩烧烤 + [云洞图书馆阅读之夜](http://hkyd.hitour2005.com/)
