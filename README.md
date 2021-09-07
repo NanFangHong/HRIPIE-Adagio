@@ -18,9 +18,19 @@
 | 黄云颀山 | Business Development | 模型、动漫、咖啡 |  |
 | 关皓宇 | Business Development | 模型、羽毛球、摄影 |  |
 
-## Courses
+## Courses and Projects
 
-职业经理人工作习惯
+[Syllabus](https://spepzt4wi1.feishu.cn/docs/doccndU6SqGO8ycISJIdBTJi5Tg#KSKnT8)
+
+| Code | Course | Learning Outcome | Comment | 
+| ---- | :----: | :----: | :----: |
+| CIDO-101 | Information and Design | 设计思维 |  |
+| CBO-101 | Business Development & Legal/Financial Fundamentals | 商务思维 |  |
+| CHRO-101 | Human Resource & Legal Fundamentals | 人力思维 |  |
+| CSTRO-101 | Science, Technology & Research | 科技研发思维 |  |
+| COO-101 | Operating | 运营思维 |  |
+| CEO-101 | Strategy | 战略思维 |  |
+
 
 ## Intellectual Calendar
 
