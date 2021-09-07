@@ -25,8 +25,8 @@
 | Code | Course | Learning Outcome | Comment | 
 | ---- | ---- | :----: | :----: |
 | CIDO-101 | Information and Design | 信息设计思维 |  |
-| CBO-101 | Business Development & Legal/Financial Fundamentals | 商务思维 |  |
-| CHRO-101 | Human Resource & Legal Fundamentals | 人力思维 |  |
+| CBO-101 | Business Development & Legal/Financial Fundamentals | 商务思维、财务思维、专利法通识 |  |
+| CHRO-101 | Human Resource & Legal Fundamentals | 人力思维、法务思维 |  |
 | CSTRO-101 | Science, Technology & Research | 科技研发思维 |  |
 | COO-101 | Operating | 运营思维 |  |
 | CEO-101 | Strategy | 战略思维 |  |
