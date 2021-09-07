@@ -20,10 +20,10 @@
 
 ## Courses and Projects
 
-[Syllabus](https://spepzt4wi1.feishu.cn/docs/doccndU6SqGO8ycISJIdBTJi5Tg#KSKnT8)
+[Syllabus (Adagio Fellow Only)](https://spepzt4wi1.feishu.cn/docs/doccndU6SqGO8ycISJIdBTJi5Tg#KSKnT8)
 
 | Code | Course | Learning Outcome | Comment | 
-| ---- | :----: | :----: | :----: |
+| ---- | ---- | :----: | :----: |
 | CIDO-101 | Information and Design | 设计思维 |  |
 | CBO-101 | Business Development & Legal/Financial Fundamentals | 商务思维 |  |
 | CHRO-101 | Human Resource & Legal Fundamentals | 人力思维 |  |
